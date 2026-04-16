@@ -52,7 +52,3 @@ Este repositório representa a base que tornou isso possível.
 
 Todo projeto começa pequeno.  
 Este repositório é prova disso.
-
----
-
-Feito com café, curiosidade e muitas tentativas ☕
